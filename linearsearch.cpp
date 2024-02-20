@@ -10,6 +10,7 @@ int main(){
             cout<<"the number is present in index "<<i;
         } 
     }
+    if(i==n) cout<<"Not found"<< "\n";
     return 0;
 }
     
